@@ -4,7 +4,7 @@ This organization contains chess projects, including
 
 * [
     ![sacrifice crates.io](
-      https://img.shields.io/crates/v/sacrifice?color=red&label=crates.io%2Fsacrifice&style=flat-square
+      https://img.shields.io/crates/v/sacrifice?color=red&logo=rust&label=crates.io%2Fsacrifice&style=flat-square
     )
   ](https://github.com/fr-therook/sacrifice/),
 a chess library in Rust.
