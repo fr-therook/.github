@@ -1,4 +1,4 @@
-## Welcome to... [![the rook(fr)!](https://img.shields.io/badge/The%20Rook!-(fr)-blue?logo=github&style=for-the-badge)](https://github.com/fr-therook/)
+## Welcome to... [![the rook(fr)!](https://img.shields.io/badge/Github-The%20Rook!-blue?logo=github&style=flat-square)](https://github.com/fr-therook/)
 
 This organization contains chess projects, including
 
